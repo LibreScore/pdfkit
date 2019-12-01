@@ -61,9 +61,7 @@
     "test:integration": "jest integration/ -i",
     "test:unit": "jest unit/ -i"
   },
-  "main": "js/pdfkit.js",
-  "module": "js/pdfkit.es5.js",
-  "esnext": "js/pdfkit.esnext.js",
+  "main": "lib/document.js",
   "browserify": {
     "transform": [
       "brfs"
