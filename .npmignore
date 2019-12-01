@@ -11,7 +11,6 @@ playground/
 .vscode/
 coverage/
 tests/
-index.js
 index.html
 yarn.lock
 rollup.config.js
